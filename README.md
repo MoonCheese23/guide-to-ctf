@@ -74,7 +74,7 @@ Click on **PRACTICE** at the top or go to <a href='picoctf.org/practice'>**picoc
     TmljZSBXb3JrIQpJZiB5b3UgY29tcGxldGUgYWxsIDEwIGNoYWxsZW5nZXMgaW4gdGhpcyBndWlkZSwgYSBzZWNyZXQgbWVzc2FnZSB3aWxsIGJlIHJldmVhbGVkLg==
     </details>
     
-  - **[stegonline]((https://georgeom.net/StegOnline/upload))**
+  - **[stegonline](https://georgeom.net/StegOnline/upload)**
   
     This is a ***steganography*** tool, which helps show hidden metadata in image files.
     There are lots of sites you can use to find metadata, like Aperi or Exiftools, but I find StegOnline to be the fastest and most reliable.
@@ -83,12 +83,16 @@ Click on **PRACTICE** at the top or go to <a href='picoctf.org/practice'>**picoc
     <details>
     <summary>Challenge</summary>
     Find the hidden message in this image:
-
+    <br>
+    
+    <img width="960" height="540" alt="hidden-meta" src="https://github.com/user-attachments/assets/db1a605f-5e17-416b-97e6-8fed7a23e3c6" />  
+    
+    Right click and copy, or download it then upload into StegOnline.  
     For this one, you will have to use `Extract Files/Data` and select at least one RGB channel.
     </details>
 
 
-- [overthewire.org/wargames/banit](https://overthewire.org/wargames/bandit/)
+- **[bandit](https://overthewire.org/wargames/bandit/)**
   
   This is a game that teaches you **UNIX**/**LINUX** terminal commands. You have to open it in your computer's terminal, which is called *Terminal* on Mac and Linux, or *Powershell*   or even *Command Prompt* depending on your windows version. Unfortunately you can't play it on the website. If your terminal is blocked on your device by an administrator, e.g. a    school laptop or work laptop, you may not be able to play this game.
   
@@ -132,6 +136,7 @@ Finally, at the bottom there is a input field to enter a ***flag***. The placeho
 
 ### Solving
 
+For this puzzle, I recommend **PRIMER 5.1-2**. <br>
 Navigate to the website. I can't include a link, but it should look something like this: `saturn.picoctf.net:54592` (This link won't work because you need to start your own instance for your own puzzle).
 
 Once on the website, poke around and see if you can spot anything ***out of the ordinary***.
@@ -174,6 +179,7 @@ If you are stuck, feel free to use a hint.
 
 Here are some puzzles in order of easy - hard.
 
+<br>
 
 ## TODO add more puzzles here
 <details>
