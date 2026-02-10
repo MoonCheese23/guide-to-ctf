@@ -118,20 +118,26 @@ Finally, at the bottom there is a input field to enter a ***flag***. The placeho
 
 
 ### Solving
+
 Navigate to the website. I can't include a link, but it should look something like this: '*saturn.picoctf.net:54592*' (This link won't work because you need to start your own instance for your own puzzle).
 
 Once on the website, poke around and see if you can spot anything ***out of the ordinary***.
+<br>
+When you have found the flag, submit it to PicoCTF and see if you got the right answer.
+<br>
+If you are stuck, feel free to use a hint.
 <details>
-  <summary>Hint 1</summary>
+  <summary>Hint</summary>
   
   Use the web inspector, open it by right-clicking on the page and selecting '*Inspect*', or by pressing '*FN+F12*' on Mac (just '*F12*' might work).
+  <br>
   When you find something strange, right click and select '*Edit as HTML*'. This enables you to copy/paste it.
+  <br>
   If, for some reason, the '*Elements*' tab is not selected, find it in the nav bar and open it.
-  
   <details>
-      <summary>Hint 2</summary>
+      <summary>Second Hint</summary>
   
-  `<element> blah blah blah </element>`  = Normal HTML code
+  `<element> blah blah blah </element>`  = Normal HTML code.
     
   `<!-- picoCTF{...} -->`  = ***Out of the ordinary...***
   
@@ -140,13 +146,12 @@ Once on the website, poke around and see if you can spot anything ***out of the 
     
   The inspect tab should look like this.
 
-  <img width="349" height="116" alt="flag" src="https://github.com/user-attachments/assets/9236bfa2-360d-498d-8f4a-d2c011eaf3ea" />
+  <img width="698" height="232" alt="The Flag" src="https://github.com/user-attachments/assets/9236bfa2-360d-498d-8f4a-d2c011eaf3ea" />
   
-  As you can see, the flag is in the middle of the code, slightly grayed out. 
-    
+  As you can see, the flag is in the middle of the code, somewhat grayed out. 
+  
   Flag: `picoCTF{1n5p3t0r_0f_h7ml_fd5d57bd}`
 </details>
 </details>
 </details>
-
 <hr>
