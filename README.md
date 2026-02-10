@@ -7,6 +7,7 @@
 - [Getting Started](#getting-started)
 - [Useful Websites](#useful-websites)
 - [Your First Puzzle](#your-first-puzzle)
+- [More Puzzles](#more-puzzles)
 
 <hr>
 
@@ -97,16 +98,18 @@ This is a game that teaches you **UNIX**/**LINUX** terminal commands. You have t
 We'll start things off with a ***fairly easy*** puzzle. In the picoGym, search for *'Inspect HTML'* or go to <a href='https://play.picoctf.org/practice/challenge/275?page=4'>*Inspect HTML - PicoCTF*</a>. You should see a screen like this:
 
 <img width="416" height="325" alt="Inspect HTML" src="https://github.com/user-attachments/assets/02dc41fb-29e4-486c-b179-6aa4947b7c62" />
+<br>
 
 ###### (!) Note that there is a green tick in the top right. This is because I have solved this puzzle before. When you solve this puzzle, a green tick will appear for you as well.
+<br>
 
 Select '*Launch Instance*' to begin the challenge. Most challenges will also have this button, but some will not.
 Launching the instance just means that a Pico puzzle will be hosted on a new website just for you and your computer. ***No-one else can access it***. Puzzles that use this feature are generally to do with websites, rather than files or downloadable content.
 
 Once clicked, the description will change to include a website, like this:
 
-<img width="609" height="277" alt="Instance Started" src="https://github.com/user-attachments/assets/d38f3591-d9c1-4648-91d5-23d5190149c6" />
-
+<img width="609" height="277" alt="Instance Started" src="https://github.com/user-attachments/assets/d38f3591-d9c1-4648-91d5-23d5190149c6"/>
+<br>
 
 A 15 minute timer and a '*Restart Instance*' button will appear. ***There's no need to worry about the timer***, you can restart/retry all challenges as many times as you want in practice. All it is really there for is to make sure the instances are closed and unavailable after use.
 
@@ -147,11 +150,42 @@ If you are stuck, feel free to use a hint.
   The inspect tab should look like this.
 
   <img width="698" height="232" alt="The Flag" src="https://github.com/user-attachments/assets/9236bfa2-360d-498d-8f4a-d2c011eaf3ea" />
-  
+  <br>
   As you can see, the flag is in the middle of the code, somewhat grayed out. 
   
   Flag: `picoCTF{1n5p3t0r_0f_h7ml_fd5d57bd}`
 </details>
 </details>
 </details>
+
 <hr>
+
+## More Puzzles
+
+Here are some puzzles in order of easy - hard.
+
+<details>
+  <summary>Easy Puzzles</summary>
+  <ul>
+    <li>abcdefg</li>
+    <li>Cookie Monster's Secret Recipe</li>
+  </ul>
+</details>
+
+<details>
+  <summary>Medium Puzzles</summary>
+  <ul>
+    <li>SSTI 1</li>
+    <li>Verify</li>
+    <li>Hidden in Plainsight</li>
+  </ul>
+</details>
+
+<details>
+  <summary>Hard Puzzles</summary>
+  <ul>
+    <li></li>
+    <li></li>
+  </ul>
+</details>
+
