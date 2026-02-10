@@ -50,19 +50,7 @@ Click on **PRACTICE** at the top or go to <a href='picoctf.org/practice'>**picoc
 ## Useful Websites
 (*You could bookmark these! Also, keep an eye out here in case I add more websites*)
 
-
-  - <a href='cyberchef.org'>**cyberchef.org**</a>
-  
-    This website can be used to *decode or decrypt* some multi-layer ciphers and encrypted messages. 
-    I use it mainly for the **Base64 decode** feature which is what most of the codes in PicoCTF are encrypted in.
-
-    <details>
-    <summary>Challenge</summary>
-    Find out what this means:
-    TmljZSBXb3JrIQpJZiB5b3UgY29tcGxldGUgYWxsIDEwIGNoYWxsZW5nZXMgaW4gdGhpcyBndWlkZSwgYSBzZWNyZXQgbWVzc2FnZSB3aWxsIGJlIHJldmVhbGVkLg==
-    </details>
-
-  - <a href='primer.picoctf.org'>**primer.picoctf.org**</a>
+  - **[primer.picoctf.org](https://primer.picoctf.org/)**
    
     This is part of PicoCTF, you can find it by going to PicoCTF then click learn, then Pico Primer.
     It is a helpful documentation for a range of useful information such as linux shells, python, web exploits, cryptography, C language and other things.
@@ -75,9 +63,33 @@ Click on **PRACTICE** at the top or go to <a href='picoctf.org/practice'>**picoc
     The first letter in the title of section 2.4 in the Primer. If you visit the website, you should be able to see the different sections labeled 1.0, 1.1, 1.2 etc.
     </details>
 
+  - **[cyberchef.org](https://cyberchef.org/)**
+  
+    This website can be used to *decode or decrypt* some multi-layer ciphers and encrypted messages. 
+    I use it mainly for the **Base64 decode** feature which is what most of the codes in PicoCTF are encrypted in.
 
-- <a href='https://overthewire.org/wargames/bandit/'>**overthewire.org/wargames/bandit**</a>
+    <details>
+    <summary>Challenge</summary>
+    Find out what this means:
+    TmljZSBXb3JrIQpJZiB5b3UgY29tcGxldGUgYWxsIDEwIGNoYWxsZW5nZXMgaW4gdGhpcyBndWlkZSwgYSBzZWNyZXQgbWVzc2FnZSB3aWxsIGJlIHJldmVhbGVkLg==
+    </details>
+    
+  - **[stegonline]((https://georgeom.net/StegOnline/upload))**
+  
+    This is a ***steganography*** tool, which helps show hidden metadata in image files.
+    There are lots of sites you can use to find metadata, like Aperi or Exiftools, but I find StegOnline to be the fastest and most reliable.
+    To use it, just upload an image, then decide what function to use. The most useful in my opinion are `Extract Files/Data` and `Show Strings`.
+    For extracting files/data, first click on the button, then select which RGB channels to analyze.
+    <details>
+    <summary>Challenge</summary>
+    Find the hidden message in this image:
 
+    For this one, you will have to use `Extract Files/Data` and select at least one RGB channel.
+    </details>
+
+
+- [overthewire.org/wargames/banit](https://overthewire.org/wargames/bandit/)
+  
   This is a game that teaches you **UNIX**/**LINUX** terminal commands. You have to open it in your computer's terminal, which is called *Terminal* on Mac and Linux, or *Powershell*   or even *Command Prompt* depending on your windows version. Unfortunately you can't play it on the website. If your terminal is blocked on your device by an administrator, e.g. a    school laptop or work laptop, you may not be able to play this game.
   
     
