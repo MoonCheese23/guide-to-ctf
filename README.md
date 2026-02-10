@@ -206,6 +206,11 @@ Here are some puzzles in order of easy - hard.
 - b
 </details>
 
+### Hints & Solutions
+
+**The hints/solutions to these puzzles can be found in a seperate file, to make sure you don't look at them accidentally.**  
+[Go to hints/solutions](./HINTS&SOLUTIONS.md)
+
 <hr>
 
 ## Help
