@@ -18,9 +18,8 @@ Flags are unique identifiers for each puzzle, and are complex to stop you from g
 They are designed to stand out from normal code or language, so that you know when you have found it.
 Sometimes, they are encrypted in a cipher so that you won't notice it straight away!
 
-<hr>
-
 This repository introduces you to **real-world security concepts** by encouraging you to **analyze problems, experiment with tools, and think critically** like cybersecurity professionals.
+<hr>
 
 ## What You'll Learn
 
@@ -34,3 +33,32 @@ This repository introduces you to **real-world security concepts** by encouragin
 </ul>
 
 CTF challenges emphasize <strong>hands-on learning, persistence, and creative thinking</strong>. No prior knowledge or experience is required to compete in competitions- you just need to be motivated to learn.
+<hr>
+
+## Getting Started
+
+The first thing you'll need to start is a PicoCTF account. All you need to do is navigate to <a href='picoctf.org'><strong>picoctf.org</strong></a> and sign up for an account. There are a few questions you need to answer, e.g. what school you're at or what grade you are.
+Once you have done this, it is a good idea to bookmark this site in your browser. Use *CMD+D* on Mac or *CTRL+D* on Windows.
+Click on <strong>PRACTICE</strong> at the top or go to <a href='picoctf.org/practice'><strong>picoctf.org/practice</strong></a>. This part of the website is called the *Pico Gym*, or practice section. It is where you can find all the puzzles you will be trying to solve for practice. In a competition, the puzzles will be new and different to these puzzles. Most puzzles on the site are from previous year's competitions.
+
+Some useful websites:
+<ul>
+  <li><a href='cyberchef.org'><strong>cyberchef.org</strong></a>:
+This website can be used to *decode or decrypt* some multi-layer ciphers and encrypted messages. 
+    
+I use it mainly for the **Base64 decode** feature which is what most of the codes in PicoCTF are encrypted in.</li>
+
+<details>
+  <summary>Challenge</summary>
+  Find out what this means:
+  TmljZSBXb3JrIQpJZiB5b3UgY29tcGxldGUgYWxsIDEwIGNoYWxsZW5nZXMgaW4gdGhpcyBndWlkZSwgYSBzZWNyZXQgbWVzc2FnZSB3aWxsIGJlIHJldmVhbGVkLg==
+</details>
+
+
+  <li><a href='primer.picoctf.org'><strong>primer.picoctf.org</strong></a></li>
+</ul>
+
+
+
+
+<hr>
