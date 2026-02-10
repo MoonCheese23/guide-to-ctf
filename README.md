@@ -102,4 +102,17 @@ We'll start things off with a fairly easy puzzle. In the picoGym, search for *'I
 Select '*Launch Instance*' to begin the challenge. Most challenges will also have this button, but some will not.
 Launching the instance just means that a Pico puzzle will be hosted on a new website just for you and your computer. No-one else can access it. Puzzles that use this feature are generally to do with websites, rather than files or downloadable content.
 
+Once clicked, the description will change to include a website, like this:
+
+<img width="609" height="277" alt="Instance Started" src="https://github.com/user-attachments/assets/89f88a6a-eddf-4b07-8953-029e1ce48081" />
+
+A 15 minute timer and a '*Restart Instance*' button will appear. There's no need to worry about the timer, you can restart/retry all challenges as many times as you want in practice. All it is really there for is to make sure the instances are closed and unavailable after use.
+
+There is also a *Hints* section, which in this puzzle shows a 1, meaning 1 hint. Clicking on the 1 will show the first (and only) hint. Some challenges could have 4 or more hints.
+
+No-one is stopping you from clicking on the hints, and it doesn't give any minus points in practice. However, depending on the rules, in competitions hints may cost you points.
+
+Finally, at the bottom there is a input field to enter a ***flag***. The placeholder flag is not important, but it shows you what to look for. Once you have found the flag, simply copy/paste into the field and press '*Submit*'. If the flag is correct, you will solve the challenge. If it is incorrect, you have to find the correct flag.
+
+
 <hr>
