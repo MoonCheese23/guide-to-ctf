@@ -179,8 +179,6 @@ If you are stuck, feel free to use a hint.
 
 Here are some puzzles in order of easy - hard.
 
-<hr>
-
 <details>
 <summary>Easy Puzzles</summary>
   
