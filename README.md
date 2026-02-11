@@ -14,11 +14,10 @@
 
 ## Introduction
 
-
-
 **PicoCTF** is a beginner-friendly **Capture The Flag (CTF)** platform designed to teach **cybersecurity fundamentals** through hands-on puzzles. In a CTF, participants solve challenges to uncover hidden **flags**, which are strings of text that confirm a successful solution.
+In most puzzles, you will have to apply critical thinking skills and computer skills to find the flag.
 
-**Example** of a flag: 'guideToCTF{tH1s_c0uld_b3_a_f1ag_2jg95asn}'.
+**Example** of a flag: `guideToCTF{tH1s_c0uld_b3_a_f1ag_2jg95asn}`.
 Flags are unique identifiers for each puzzle, and are complex to stop you from guessing them in a competition.
 They are designed to stand out from normal code or language, so that you know when you have found it.
 Sometimes, they are encrypted in a cipher so that you won't notice it straight away!
