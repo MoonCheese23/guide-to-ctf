@@ -185,25 +185,32 @@ Here are some puzzles in order of easy - hard.
 <details>
 <summary>Easy Puzzles</summary>
   
-- abcdefg
-- Cookie Monster's Secret Recipe
-  
+- [Obedient Cat](https://play.picoctf.org/practice/challenge/147)
+- [strings it](https://play.picoctf.org/practice/challenge/37)
+- [Glory of the Garden](https://play.picoctf.org/practice/challenge/44)
+- [dont-use-client-side](https://play.picoctf.org/practice/challenge/66)
+- [runme.py](https://play.picoctf.org/practice/challenge/250)
 </details>
 
 <details>
 <summary>Medium Puzzles</summary>
   
-- SSTI 1
-- Verify
-- Hidden in Plainsight
+- [Caesar](https://play.picoctf.org/practice/challenge/64)
+- [logon](https://play.picoctf.org/practice/challenge/46)
+- [SSTI1](https://play.picoctf.org/practice/challenge/492)
+- [Verify](https://play.picoctf.org/practice/challenge/450)
+- [Hidden in Plainsight](https://play.picoctf.org/practice/challenge/524)
   
 </details>
 
 <details>
 <summary>Hard Puzzles</summary>
   
-- a
-- b
+- [Client-side-again]((https://play.picoctf.org/practice/challenge/69))
+- [SSTI2](https://play.picoctf.org/practice/challenge/488)
+- [Trickster](https://play.picoctf.org/practice/challenge/445)
+- [More SQLi](https://play.picoctf.org/practice/challenge/358)
+- [Login](https://play.picoctf.org/practice/challenge/200)
 </details>
 
 ### Hints & Solutions
