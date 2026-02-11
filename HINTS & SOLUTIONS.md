@@ -5,8 +5,8 @@
 [Back to main page](./README.md)
 <hr>
 
-
-**First Puzzle: Verify**
+#### These are in order from Easy - Hard, as seen in the main section.
+****
 <details>
   <summary>Click to reveal <strong>hint</strong>:</summary>
   Hint: use ---
