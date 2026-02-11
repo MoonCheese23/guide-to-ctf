@@ -43,7 +43,7 @@ CTF challenges emphasize **hands-on learning, persistence, and creative thinking
 
 The first thing you'll need to start is a PicoCTF account. All you need to do is navigate to [picoctf.org](https://picoctf.org) and sign up for an account. There are a few questions you need to answer, e.g. what school you're at or what grade you are.
 Once you have done this, it is a good idea to bookmark this site in your browser. Use `CMD+D` on Mac or `CTRL+D` on Windows.  
-Click on **PRACTICE** at the top or go to [picoctf.org/practice](picoctf.org/practice). This part of the website is called the **picoGym**, or practice section. It is where you can find all the puzzles you will be trying to solve for practice. In a competition, the puzzles will be new and different to these puzzles. Most puzzles on the site are from previous year's competitions.
+Click on **PRACTICE** at the top or go to **[picoctf.org/practice](https://picoctf.org/practice)**. This part of the website is called the **picoGym**, or practice section. It is where you can find all the puzzles you will be trying to solve for practice. In a competition, the puzzles will be new and different to these puzzles. Most puzzles on the site are from previous year's competitions.
 
 <hr>
 
