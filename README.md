@@ -179,9 +179,8 @@ If you are stuck, feel free to use a hint.
 
 Here are some puzzles in order of easy - hard.
 
-<br>
+<hr>
 
-## TODO add more puzzles here
 <details>
 <summary>Easy Puzzles</summary>
   
@@ -206,7 +205,7 @@ Here are some puzzles in order of easy - hard.
 <details>
 <summary>Hard Puzzles</summary>
   
-- [Client-side-again]((https://play.picoctf.org/practice/challenge/69))
+- [Client-side-again](https://play.picoctf.org/practice/challenge/69)
 - [SSTI2](https://play.picoctf.org/practice/challenge/488)
 - [Trickster](https://play.picoctf.org/practice/challenge/445)
 - [More SQLi](https://play.picoctf.org/practice/challenge/358)
