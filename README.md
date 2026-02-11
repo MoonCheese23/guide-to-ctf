@@ -8,7 +8,8 @@
 - [Useful Websites](#useful-websites)
 - [Your First Puzzle](#your-first-puzzle)
 - [More Puzzles](#more-puzzles)
-
+- [Help](#help)
+  
 <hr>
 
 ## Introduction
